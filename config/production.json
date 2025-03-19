@@ -1,0 +1,8 @@
+{
+    "port": 5000,
+    "urldb": "mongodb://127.0.0.1:27017/",
+    "db": "incooker",
+    "collection": "products",
+    "client": "http://localhost:3000",
+    "tokenKey": "Произвольный текс"
+}

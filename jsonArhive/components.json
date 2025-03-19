@@ -1,0 +1,541 @@
+[
+  {
+    "_id": "64fe2178138a7d1c951ea1ca",
+    "name": "L7805CV-DG",
+    "quantity": 5,
+    "reserve": 1
+  },
+  {
+    "_id": "64fe22066b2f981f0248aeb9",
+    "name": "LM339DT",
+    "quantity": 2110,
+    "reserve": 1
+  },
+  {
+    "_id": "654157cf7d79ddf6b3ebb27e",
+    "name": "PC817C",
+    "quantity": 400,
+    "reserve": 1
+  },
+  {
+    "_id": "65415e47aa1ec0f9f91f8b6a",
+    "name": "DB207",
+    "quantity": 500,
+    "reserve": 46
+  },
+  {
+    "_id": "6541618bc02395c519cda009",
+    "name": "DB107",
+    "quantity": 30,
+    "reserve": 41
+  },
+  {
+    "_id": "655bc68f32661b40af829f7d",
+    "name": "US2M",
+    "quantity": 14000,
+    "reserve": 45
+  },
+  {
+    "_id": "655bc6a832661b40af829f7e",
+    "name": "BZV55-C18V",
+    "quantity": 350,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc76f32661b40af829f7f",
+    "name": "LL4148",
+    "quantity": 340,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc7ae32661b40af829f80",
+    "name": "BC817-40",
+    "quantity": 20,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc7c032661b40af829f81",
+    "name": "BC807-40",
+    "quantity": 2091,
+    "reserve": 133
+  },
+  {
+    "_id": "655bc7d632661b40af829f82",
+    "name": "1M 0.5W CFR 5%",
+    "quantity": 5360,
+    "reserve": 91
+  },
+  {
+    "_id": "655bc7e932661b40af829f83",
+    "name": "6.2R 1206 5%",
+    "quantity": 538,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc7fd32661b40af829f84",
+    "name": "10R 1206 5%",
+    "quantity": 555,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc80e32661b40af829f85",
+    "name": "100R 1206 5%",
+    "quantity": 570,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc82032661b40af829f86",
+    "name": "680R 1206 5%",
+    "quantity": 2041,
+    "reserve": 562
+  },
+  {
+    "_id": "655bc82f32661b40af829f87",
+    "name": "1K 1206 5%",
+    "quantity": 72,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc84032661b40af829f88",
+    "name": "2K 1206 5%",
+    "quantity": 45,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc85f32661b40af829f89",
+    "name": "3K 1206 5%",
+    "quantity": 50,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc86e32661b40af829f8a",
+    "name": "5.1K 1206 5%",
+    "quantity": 35,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc87b32661b40af829f8b",
+    "name": "8.2K 1206 5%",
+    "quantity": 45,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc89332661b40af829f8c",
+    "name": "10K 1206 5%",
+    "quantity": 80,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc8a132661b40af829f8d",
+    "name": "12K 1206 5%",
+    "quantity": 62,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc8b832661b40af829f8e",
+    "name": "100K 1206 5%",
+    "quantity": 74,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc8ce32661b40af829f8f",
+    "name": "130K 1206 5%",
+    "quantity": 58,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc8e032661b40af829f90",
+    "name": "200K 1206 5%",
+    "quantity": 77,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc8ee32661b40af829f91",
+    "name": "2K 0805 5%",
+    "quantity": 45,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc90032661b40af829f92",
+    "name": "1K 0805 5%",
+    "quantity": 67,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc91432661b40af829f93",
+    "name": "3.9K 0805 5%",
+    "quantity": 78,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc92432661b40af829f94",
+    "name": "10K 0805 5%",
+    "quantity": 90,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc93632661b40af829f95",
+    "name": "62K 0805 5%",
+    "quantity": 54,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc94632661b40af829f96",
+    "name": "20K R063-Horizontal",
+    "quantity": 85,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc96432661b40af829f97",
+    "name": "100nF 50V    X7R 1206",
+    "quantity": 90,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc97532661b40af829f98",
+    "name": "4.7uF 25V     X7R 1206",
+    "quantity": 85,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc98632661b40af829f99",
+    "name": "22pF 50V      NP0 0805",
+    "quantity": 96,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc99632661b40af829f9a",
+    "name": "220pF 50V    NP0 0805",
+    "quantity": 94,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc9a432661b40af829f9b",
+    "name": "22nF 50V      X7R 0805",
+    "quantity": 74,
+    "reserve": 1
+  },
+  {
+    "_id": "655bc9b332661b40af829f9c",
+    "name": "100nF 50V    X7R 0805",
+    "quantity": 84,
+    "reserve": 1
+  },
+  {
+    "_id": "655bcad132661b40af829f9d",
+    "name": "47uF 50V 6.3*11 105C 3000Hr [Low ESR]",
+    "quantity": 48,
+    "reserve": 1
+  },
+  {
+    "_id": "655bcb2432661b40af829f9e",
+    "name": "4.7uF 450V 10*15 105C 8000Hr [Long Life]",
+    "quantity": 76,
+    "reserve": 1
+  },
+  {
+    "_id": "655bcc2232661b40af829f9f",
+    "name": "470uF 35V 10*17 105C 4000Hr [Low ESR]",
+    "quantity": 83,
+    "reserve": 1
+  },
+  {
+    "_id": "655bcc4d32661b40af829fa0",
+    "name": "10nF 50V X7R 0805 пульт",
+    "quantity": 93,
+    "reserve": 1
+  },
+  {
+    "_id": "655bcc5e32661b40af829fa1",
+    "name": "330uF 16V 6.3*12 105C 3000Hr [Low ESR]",
+    "quantity": 78,
+    "reserve": 1
+  },
+  {
+    "_id": "655bcc7932661b40af829fa2",
+    "name": "1uH 100mA 0.4R (DL1206-1)",
+    "quantity": 71,
+    "reserve": 1
+  },
+  {
+    "_id": "655bcc8b32661b40af829fa3",
+    "name": "47uH 0.95A (DM0608-470K-S0)",
+    "quantity": 63,
+    "reserve": 1
+  },
+  {
+    "_id": "655bcc9932661b40af829fa4",
+    "name": "33uH 1.1A (DM0810-330K)",
+    "quantity": 71,
+    "reserve": 1
+  },
+  {
+    "_id": "655bcca932661b40af829fa5",
+    "name": "КВАРЦ 16.000MHz HC49/S кор.",
+    "quantity": 91,
+    "reserve": 1
+  },
+  {
+    "_id": "655bccbb32661b40af829fa6",
+    "name": "BC847C",
+    "quantity": 98,
+    "reserve": 1
+  },
+  {
+    "_id": "655bccd032661b40af829fa7",
+    "name": "3.6x10мм T2.5A 250VAC",
+    "quantity": 83,
+    "reserve": 1
+  },
+  {
+    "_id": "655bccdc32661b40af829fa8",
+    "name": "XH-05A",
+    "quantity": 54,
+    "reserve": 1
+  },
+  {
+    "_id": "655bcceb32661b40af829fa9",
+    "name": "XH-03A",
+    "quantity": 64,
+    "reserve": 1
+  },
+  {
+    "_id": "655bccfb32661b40af829faa",
+    "name": "XH-02A",
+    "quantity": 59,
+    "reserve": 1
+  },
+  {
+    "_id": "655bcd0832661b40af829fab",
+    "name": "TL431AIDBZR",
+    "quantity": 74,
+    "reserve": 1
+  },
+  {
+    "_id": "655bcd4d32661b40af829fac",
+    "name": "Термистор NTC 100K 1% B3950",
+    "quantity": 85,
+    "reserve": 1
+  },
+  {
+    "_id": "655e696b1a9d329dc226e33d",
+    "name": "FPT6х3х8мм",
+    "quantity": 80,
+    "reserve": 1
+  },
+  {
+    "_id": "655e69821a9d329dc226e33e",
+    "name": "Светодиод 5mm Красный матовый 600-800 mCd",
+    "quantity": 120,
+    "reserve": 1
+  },
+  {
+    "_id": "655e69921a9d329dc226e33f",
+    "name": "100R 0805 5%",
+    "quantity": 77,
+    "reserve": 1
+  },
+  {
+    "_id": "655e69a41a9d329dc226e340",
+    "name": "5x20мм T20A",
+    "quantity": 97,
+    "reserve": 1
+  },
+  {
+    "_id": "655e69b41a9d329dc226e341",
+    "name": "D35XB100",
+    "quantity": 79,
+    "reserve": 1
+  },
+  {
+    "_id": "655e69cb1a9d329dc226e342",
+    "name": "CM251513-2mh15A",
+    "quantity": 91,
+    "reserve": 1
+  },
+  {
+    "_id": "655e69dd1a9d329dc226e343",
+    "name": "KS141060A-93uH 15A",
+    "quantity": 90,
+    "reserve": 1
+  },
+  {
+    "_id": "655e69eb1a9d329dc226e344",
+    "name": "TSD-860",
+    "quantity": 71,
+    "reserve": 1
+  },
+  {
+    "_id": "655e69fb1a9d329dc226e345",
+    "name": "H20R1353  IHW20N135R3",
+    "quantity": 87,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6a0b1a9d329dc226e346",
+    "name": "ATMEGA8A-PU",
+    "quantity": 95,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6a1a1a9d329dc226e347",
+    "name": "MOV20D431K",
+    "quantity": 91,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6a2a1a9d329dc226e348",
+    "name": "Ш122 Х 26",
+    "quantity": 84,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6a3e1a9d329dc226e349",
+    "name": "DIP 28-S/17",
+    "quantity": 95,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6a4b1a9d329dc226e34a",
+    "name": "HYT-0905",
+    "quantity": 63,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6a5c1a9d329dc226e34b",
+    "name": "Светодиод 3-5мм синий",
+    "quantity": 58,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6a7b1a9d329dc226e34c",
+    "name": "47uF 450V 105° 5000Hr [Long Life]",
+    "quantity": 74,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6a8c1a9d329dc226e34d",
+    "name": "5uF 275 / 400V",
+    "quantity": 76,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6a991a9d329dc226e34e",
+    "name": "0.3uF 630 / 1200V",
+    "quantity": 77,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6ab21a9d329dc226e34f",
+    "name": "0.24uF 630 / 1200V",
+    "quantity": 58,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6abf1a9d329dc226e350",
+    "name": "SMAJ220A",
+    "quantity": 74,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6ace1a9d329dc226e351",
+    "name": "TOP224YN",
+    "quantity": 70,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6ae01a9d329dc226e352",
+    "name": "AX-0500",
+    "quantity": 59,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6af01a9d329dc226e353",
+    "name": "PCB-7M4",
+    "quantity": 65,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6afe1a9d329dc226e354",
+    "name": "М3х16мм",
+    "quantity": 98,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6b0a1a9d329dc226e355",
+    "name": "Плата PCB",
+    "quantity": 77,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6b181a9d329dc226e356",
+    "name": "Плата PCB пульт",
+    "quantity": 88,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6b241a9d329dc226e357",
+    "name": "Корпус пульт",
+    "quantity": 500,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6b321a9d329dc226e358",
+    "name": "Индикатор SMA420561KX-2",
+    "quantity": 150,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6b451a9d329dc226e359",
+    "name": "Кабель + шлейф",
+    "quantity": 300,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6b531a9d329dc226e35a",
+    "name": "Кнопка 12х12mm",
+    "quantity": 150,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6b6b1a9d329dc226e35b",
+    "name": "Энкодер",
+    "quantity": 110,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6b7b1a9d329dc226e35c",
+    "name": "Термодатчик",
+    "quantity": 250,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6b881a9d329dc226e35d",
+    "name": "Индуктор 3,5кВт",
+    "quantity": 200,
+    "reserve": 1
+  },
+  {
+    "_id": "655e6b981a9d329dc226e35e",
+    "name": "Кулер",
+    "quantity": 450,
+    "reserve": 2
+  },
+  {
+    "_id": "655e6ba81a9d329dc226e35f",
+    "name": "BD441",
+    "quantity": 145,
+    "reserve": 1
+  },
+  {
+    "_id": "65f47294c792644bd278b19f",
+    "name": "Диод Шотки SS36A",
+    "quantity": 250,
+    "reserve": 1
+  },
+  {
+    "_id": "65f472dbc792644bd278b1a1",
+    "name": "QQQQQ WWWW",
+    "quantity": 150
+  }
+]
